@@ -3,7 +3,9 @@
 **Student Name:** Atharv Porwal
 **Roll Number:**  24BEC10057
 **Chosen Software:** Git
-
+- **Program:** B.Tech Electronics and Communication Engineering  
+- **University:** VIT Bhopal University  
+- **Course:** Open Source Software
 ## About This Project
 This project is a structured audit of Git, an open-source
 version control system licensed under GPL v2, created by
